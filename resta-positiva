@@ -1,0 +1,12 @@
+Proceso Principal
+	Leer a, b
+	Si a < b Entonces
+		aux = a
+		a = b
+		b = aux
+		resta = a - b
+	SiNo
+		resta = a - b
+	FinSi
+	Escribir resta
+FinProceso
