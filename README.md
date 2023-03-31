@@ -3,4 +3,4 @@ PROGRAMACION I 2023
 
 2. ALGORITMOS
 
-[![27-MAR-SI1-RO-POSIT.png](https://i.postimg.cc/NMdT2VJD/27-MAR-SI1-RO-POSIT.png)](https://postimg.cc/CBfdWvVn)
+[url=https://postimg.cc/CBfdWvVn][img]https://i.postimg.cc/CBfdWvVn/27-MAR-SI1-RO-POSIT.png[/img][/url]
